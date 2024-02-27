@@ -15,7 +15,8 @@ Get ready to learn! Bloomberg learning labs are a collection of activities desig
 
 ## Rationale
 
-Here at Bloomberg, we wanted to give individual a better insight into what software engineering looks like and how we build our software solutions. This repo contains a series of labs which will walk through & engage developers to create solutions to problems we face at Bloomberg! Through these labs you can learn more about our problem domain and continue to develop your coding skills.
+Here at Bloomberg, we wanted to give individual a better insight into what software engineering looks like and how we build our 
+software solutions. This repo contains a series of labs which will walk through & engage developers to create solutions to problems we face at Bloomberg! Through these labs you can learn more about our problem domain and continue to develop your coding skills.
 
 ## Framework
 
